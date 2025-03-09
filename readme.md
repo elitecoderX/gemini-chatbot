@@ -12,8 +12,8 @@ This is a **Chatbot** built using **Streamlit** and **Google Gemini API**. It pr
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
-    git clone https://github.com/yourusername/streamlit-gemini-chatbot.git
-    cd streamlit-gemini-chatbot
+    git clone https://github.com/yourusername/gemini-chatbot.git
+    cd gemini-chatbot
 ```
 
 ### **2️⃣ Install Dependencies Using Pipenv**
